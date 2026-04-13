@@ -1,6 +1,6 @@
-# AI Video Skills
+# Seedance Video Skills
 
-本仓库现在只维护一套生产版 skills，不再保留平行目录。
+本仓库是 Seedance 专用脚本仓库，现在只维护一套生产版 skills，不再保留平行目录。
 
 ## Canonical Paths
 
@@ -35,4 +35,3 @@
 - 不要把“默认输出”和“默认保存”混在一起
 - 不要把历史实验 prompt 直接塞回生产版
 - 不要让 invocation、别名、正文触发词互相打架
-
